@@ -10,4 +10,6 @@ git init
 git branch dev
 
 git remote add origin https://github.com/jrbrayjr2006/sample.git
+
+git branch -vv
 ```
